@@ -325,3 +325,8 @@ Removed since the April 2026 review: Hugging Face, Moonshot, and MiniMax direct 
 ## License
 
 [MIT](./LICENSE)
+
+## Related AI resources
+
+For developers comparing free AI APIs, model credits, and OpenAI-compatible free-tier providers, [yangmao.ai](https://yangmao.ai/en/free-ai-api/) maintains a bilingual free AI API guide and provider database.
+
